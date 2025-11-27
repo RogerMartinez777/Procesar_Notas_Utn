@@ -3,3 +3,4 @@ Este repo contiene un pequeño programa hecho en primera instancia con Python, s
 es calcular cantidades de tareas realizadas por alumno subiendo solamente el listado de quienes subieron cada tarea,
 el software formatea y suma las tareas (cantidades) y arroja un excel y un json con dicha info, por supuesto que 
 lo podemos hacer crecer y que tenga mas funcionalidades !! join us !!
+### NOTA: el .py ya tiene precargados datos de alumnos, esto ayuda a saber como subir los datos
